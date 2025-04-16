@@ -1,0 +1,5 @@
+VCD info: dumpfile saida.vcd opened for output.
+entrada_signed_1=11110000, entrada_signed_2=1111, entrada_unsigned_1=11110000, entrada_unsigned_2=1111, codigo=00, saida= -17
+entrada_signed_1=11110000, entrada_signed_2=1111, entrada_unsigned_1=11110000, entrada_unsigned_2=1111, codigo=01, saida=  -1
+entrada_signed_1=11110000, entrada_signed_2=1111, entrada_unsigned_1=11110000, entrada_unsigned_2=1111, codigo=10, saida= -32
+entrada_signed_1=11110000, entrada_signed_2=1111, entrada_unsigned_1=11110000, entrada_unsigned_2=1111, codigo=11, saida=  -1
